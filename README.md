@@ -1,4 +1,4 @@
-# This README file explains how the script run_analysis.R works. 
+## This README file explains how the script "run_analysis.R" works. 
 
 
 1) The working directory must contain:
