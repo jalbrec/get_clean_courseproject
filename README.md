@@ -1,5 +1,5 @@
 # get_clean_courseproject
-Getting and Cleaning Data course project
+
 
 1) The working directory must contain:
 	
