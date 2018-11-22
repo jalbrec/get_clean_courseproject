@@ -1,4 +1,4 @@
-# get_clean_courseproject
+# This README file explains how the script run_analysis.R works. 
 
 
 1) The working directory must contain:
