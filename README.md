@@ -6,8 +6,10 @@
 	a. The downloaded and unzipped "UCI HAR Dataset" folder (this folder is obtained by downloading and unzipping the samsung data in the assignment). 
 	
 	b. My script file of run_analysis.R
+	
 
 2) Source the script file with the code: source("run_analysis.R")
+
 
 3) The code executes 3 data frames and 1 output file: "final", "final_long", "final_wide" and "GaCA_finalwide.txt".
 	
@@ -16,3 +18,6 @@
 	b. The output file "GaCA_finalwide.txt" is the tidy dataset in wide form located in the working directory.   
 	
 	c. "final" is the above file read back into r as a dataframe. 
+
+
+4) If you read in the tidy data file "GaCA_finalside.txt" use the following script: read.delim("GaCA_finalwide.txt", check.names = FALSE)
