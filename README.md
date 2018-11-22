@@ -2,7 +2,9 @@
 Getting and Cleaning Data course project
 
 1) The working directory must contain:
+  
   a. The downloaded and unzipped file "UCI HAR Dataset" folder (this folder is obtained by downloading and unzipping the samsung data in the assignment). 
+  
   b. My script file of run_analysis.R
 
 2) Source the script file with the code: source("run_analysis.R")
