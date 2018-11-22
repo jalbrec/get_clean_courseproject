@@ -85,6 +85,6 @@
 ## file output and read back in.         
 setwd('..')
 write.table(final_wide, "GaCA_finalwide.txt", row.name = FALSE, sep = "\t")
-final <- read.delim("GaCA_finalwide.txt")
+final <- read.delim("GaCA_finalwide.txt", check.names = FALSE)
 
 
