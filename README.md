@@ -20,4 +20,4 @@
 	c. "final" is the above file read back into r as a dataframe. 
 
 
-4) If you read in the tidy data file "GaCA_finalside.txt" use the following script: read.delim("GaCA_finalwide.txt", check.names = FALSE)
+4) If you read in the tidy data file "GaCA_finalwide.txt" use the following script: read.delim("GaCA_finalwide.txt", check.names = FALSE)
